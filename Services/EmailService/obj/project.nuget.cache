@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YUDizN4r0D+cBrzdJ4EdzY3TanHCOzTWKh1v/zXtCeVo+8OWJn4I9UdY88Ucjd5YlpMBBPOXHY2M3lnNbrUOSw==",
+  "dgSpecHash": "s4IkmCTocL9/GqNKWg8PdDiWR33X+HcaTqxKbXXm6Vk5E+qDje1lOcf7fU52vJuqFECnfgKhbIgUugBjzJTQow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sasun\\Source\\Repos\\AI-Resume-Builder\\Services\\EmailService\\EmailService.csproj",
+  "projectFilePath": "C:\\Users\\sasun\\source\\repos\\AI-Resume-Builder\\Services\\EmailService\\EmailService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sasun\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\sasun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
